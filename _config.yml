@@ -3,7 +3,7 @@ name: Mohonish Chakraborty
 bio: This guy met his computer, and they lived happily everafter
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Personal website of Mohonish Chakraborty
 
 # if it's an external image, update below for true
 # better with square images
@@ -22,7 +22,7 @@ url: http://moho.me
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-154889985-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
