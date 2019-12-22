@@ -59,7 +59,7 @@ TLDR; (scroll below for descriptions)
 	</li>
 	<li><strong>Topics:</strong> machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation.
 	</li>
-	<li> Assignments:
+	<li> Assignments:</li>
 	<ul>
 		<li> C Programming Lab</li>
 		<li> Data lab - working with low-level C code - bit manipulation.</li>
@@ -70,7 +70,6 @@ TLDR; (scroll below for descriptions)
 		<li> TSH lab - design and implement a unix shell process, handling concurrency, threads, signals, and exceptions.</li>
 		<li> Proxy lab - design and implement a proxy server in C handling concurrency, and threads with reasonable performance.</li>
 	</ul>
-	</li>
 </ul>
 
 <ul class="skill-list">
