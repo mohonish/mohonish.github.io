@@ -7,22 +7,37 @@ layout: page
 <p>I am a graduate student in Software Engineering at Carnegie Mellon University - School of Computer Science (Institute for Software Research).
 Previously, I was a Senior Software Engineer at Myntra Designs, one of India's leading fashion ecommerce companies.</p>
 
-<p>My current interests at grad school are the design and architecture of large-scale software systems.</p>
+<p>My current interests at grad school are the design, architecture, and management of large-scale software systems, along with Machine Learning.</p>
 
-<h3>Course Plan</h3>
+<h3>CMU - Course Plan</h3>
 <h4>Fall 2019</h4>
+
+<h5>17651 - Models of Software Systems</h5>
 <ul class="skill-list">
-	<li>17651 - Models of Software Systems<br/>
-	<b>Overview:</b> This course is concerned with formally modeling software systems, such as the standard models for representing sequential and concurrent systems, such as state machines, algebras and traces. It shows how you can use different logics to specify properties of software systems, such as functional correctness, deadlock freedom, and internal consistency. Concepts such as composition mechanisms, abstraction relations, invariants, non-determinism, and inductive and denotational descriptions are recurrent themes throughout the course.<br/>
-	<b>Topics Covered:</b> Logic, State Machines and Reasoning, <a href="https://www.doc.ic.ac.uk/ltsa/">Labelled Transition System Analyser (LTSA)</a>, Relational models with <a href="http://alloy.lcs.mit.edu/alloy/">Alloy</a>, Concurrent Systems with Linear Temporal Logic, Probabilistic Modelling with <a href="https://www.prismmodelchecker.org/">PRISM</a>.
+	<li><strong>Overview:</strong> This course is concerned with formally modeling software systems, such as the standard models for representing sequential and concurrent systems, such as state machines, algebras and traces. It shows how you can use different logics to specify properties of software systems, such as functional correctness, deadlock freedom, and internal consistency. Concepts such as composition mechanisms, abstraction relations, invariants, non-determinism, and inductive and denotational descriptions are recurrent themes throughout the course.<br/>
 	</li>
-	<li>17652 - Methods - Deciding what to design</li>
-	<li>17653 - Managing Software Development</li>
-	<li>15513 - Intro to Computer Systems<br/>
-	<a href="http://www.cs.cmu.edu/~213/">Course Page</a>
+	<li><b>Topics Covered:</b> Logic, State Machines and Reasoning, <a href="https://www.doc.ic.ac.uk/ltsa/">Labelled Transition System Analyser (LTSA)</a>, Relational models with <a href="http://alloy.lcs.mit.edu/alloy/">Alloy</a>, Concurrent Systems with Linear Temporal Logic, Probabilistic Modelling with <a href="https://www.prismmodelchecker.org/">PRISM</a>.
 	</li>
-	<li>17654A - Communication for Software Engineers I</li>
 </ul>
+
+<h5>17652 - Methods - Deciding what to design</h5>
+<ul class="skill-list">
+	<li>Overview:
+	</li>
+</ul>
+
+<h5>17653 - Managing Software Development</h5>
+<ul class="skill-list">
+	<li>Overview:
+	</li>
+</ul>
+
+<h5>15513 - Intro to Computer Systems</h5>
+<ul class="skill-list">
+	<li><a href="http://www.cs.cmu.edu/~213/">Course Page</a>
+	</li>
+</ul>
+
 <h4>Spring 2020</h4>
 <ul class="skill-list">
 	<li>17654 - Analysis of Software Artifacts</li>
