@@ -10,9 +10,29 @@ Previously, I was a Senior Software Engineer at Myntra Designs, one of India's l
 <p>My current interests at grad school are the design, architecture, and management of large-scale software systems, along with Machine Learning.</p>
 
 <h3>CMU - Course Plan</h3>
-<h4>Fall 2019</h4>
 
-<h5>17651 - Models of Software Systems</h5>
+TLDR; (scroll below for descriptions)</br>
+<h4>Fall 2019</h4>
+<ul class="skill-list">
+	<li>17651 - Models of Software Systems</li>
+	<li>17652 - Methods - Deciding what to design</li>
+	<li>17653 - Managing Software Development</li>
+	<li>15513 - Intro to Computer Systems</li>
+	<li>17657A - Communication for Software Engineers II</li>
+</ul>
+<h4>Spring 2020</h4>
+<ul class="skill-list">
+	<li>17654 - Analysis of Software Artifacts</li>
+	<li>17655 - Architectures for Software Systems</li>
+	<li>11663 - Applied Machine Learning</li>
+	<li>80705 - Game Theory</li>
+	<li>17671 - Software Development Studio I</li>
+	<li>17657A - Communication for Software Engineers II</li>
+</ul>
+
+<h3>Course Descriptions</h3>
+
+<h4>17651 - Models of Software Systems</h4>
 <ul class="skill-list">
 	<li><strong>Overview:</strong> This course is concerned with formally modeling software systems, such as the standard models for representing sequential and concurrent systems, such as state machines, algebras and traces. It shows how you can use different logics to specify properties of software systems, such as functional correctness, deadlock freedom, and internal consistency. Concepts such as composition mechanisms, abstraction relations, invariants, non-determinism, and inductive and denotational descriptions are recurrent themes throughout the course.<br/>
 	</li>
@@ -20,25 +40,24 @@ Previously, I was a Senior Software Engineer at Myntra Designs, one of India's l
 	</li>
 </ul>
 
-<h5>17652 - Methods - Deciding what to design</h5>
+<h4>17652 - Methods - Deciding what to design</h4>
 <ul class="skill-list">
 	<li>Overview:
 	</li>
 </ul>
 
-<h5>17653 - Managing Software Development</h5>
+<h4>17653 - Managing Software Development</h4>
 <ul class="skill-list">
 	<li>Overview:
 	</li>
 </ul>
 
-<h5>15513 - Intro to Computer Systems</h5>
+<h4>15513 - Intro to Computer Systems</h4>
 <ul class="skill-list">
 	<li><a href="http://www.cs.cmu.edu/~213/">Course Page</a>
 	</li>
 </ul>
 
-<h4>Spring 2020</h4>
 <ul class="skill-list">
 	<li>17654 - Analysis of Software Artifacts</li>
 	<li>17655 - Architectures for Software Systems</li>
