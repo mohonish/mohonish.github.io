@@ -68,6 +68,7 @@ TLDR; (scroll below for descriptions)</br>
 		<li> Malloc lab - design and implement your own malloc library.
 		<li> TSH lab - design and implement a unix shell process, handling concurrency, threads, signals, and exceptions.
 		<li> Proxy lab - design and implement a proxy server in C handling concurrency, and threads with reasonable performance.
+	</ul>
 </ul>
 
 <ul class="skill-list">
