@@ -9,6 +9,8 @@ Previously, I was a Senior Software Engineer at Myntra Designs, one of India's l
 
 <p>My current interests at grad school are the design, architecture, and management of large-scale software systems, along with Software engineering for Machine Learning and AI systems.</p>
 
+<p>As a software engineer, I enjoy working on user-facing systems. In many products user-facing software is the leading source of revenue, and hence coupled tightly with the user experience. I am thrilled to be involved in such high-risk high-reward systems where our actions directly impact the users.</p>
+
 <h3>CMU - Course Plan</h3>
 
 TLDR; (click on link for course descriptions)
