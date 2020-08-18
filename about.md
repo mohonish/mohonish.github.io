@@ -13,7 +13,7 @@ Previously, I was a Senior Software Engineer at Myntra Designs, one of India's l
 
 <h3>CMU - Course Plan</h3>
 
-TLDR; (click on link for course descriptions)
+TLDR; (click on the links for course description)
 
 <h4>Fall 2019</h4>
 <ul class="skill-list">
@@ -111,7 +111,7 @@ TLDR; (click on link for course descriptions)
 
 <h4 id="seai">17645 - Software Engineering for AI-Enabled Systems</h4>
 <ul class="skill-list">
-	<li><a href="https://ckaestne.github.io/seai/S2020/">Course Page</a>
+	<li><a href="https://ckaestne.github.io/seai/S2020/">Course Page</a></li>
 	<li><strong>Overview:</strong> This was a fun course. We covered aspects for software engineering for machine learning / AI systems. Much of the learning was from the perspective of a software engineering working with machine learning engineers or data scientists. The class was very discussion focused and that was very insightful. The individual assignments were technical and challenging. The course involved a group project where we had to build and deploy a recommendation system (my team used collaborative filtering) to serve recommendations to 1 million simulated users (watching at least one movie per day). Notably, my team had the lowest service downtime and the best performing recommendation system with an average rating of 4.06 on recommended movies.
 	</li>
 </ul>
