@@ -116,7 +116,7 @@ TLDR; (scroll below for descriptions)
 
 <h4>Software Development Studio I/II/III</h4>
 <ul class="skill-list">
-	<li><strong>Overview:</strong> 
+	<li><strong>Overview:</strong> Studio is a year long capstone project in a team of 4 MSE students. My team (codename: Moonshot) is developing the ground control system software for the Moonranger rover which is being built by the CMU Robotics Institute and Astrobotic. The primary challenge of this project is (1) the work on the rover is progressing in parallel and therefore the requirements are highly unstructured and unspecified making modifiability one of our top concerns, and (2) the software needs to be extremely robust and reliable because well, it's a moon mission. We started from scratch and are expecting to hand over a reliable and extensible platform with adequate documentation to another MSE team next year.
 	</li>
 </ul>
 
