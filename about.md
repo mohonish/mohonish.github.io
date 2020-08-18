@@ -7,7 +7,7 @@ layout: page
 <p>I am a graduate student in Software Engineering at Carnegie Mellon University - School of Computer Science (Institute for Software Research).
 Previously, I was a Senior Software Engineer at Myntra Designs, one of India's leading fashion ecommerce companies.</p>
 
-<p>My current interests at grad school are the design, architecture, and management of large-scale software systems, along with Machine Learning.</p>
+<p>My current interests at grad school are the design, architecture, and management of large-scale software systems, along with Software engineering for Machine Learning and AI systems.</p>
 
 <h3>CMU - Course Plan</h3>
 
@@ -29,6 +29,17 @@ TLDR; (scroll below for descriptions)
 	<li>80705 - Game Theory</li>
 	<li>17671 - Software Development Studio I</li>
 	<li>17657A - Communication for Software Engineers II</li>
+</ul>
+<h4>Summer 2020</h4>
+<ul class="skill-list">
+	<li>17645 - Software Engineering for AI-Enabled Systems</li>
+	<li>17672 - Software Development Studio II</li>
+</ul>
+<h4>Fall 2020</h4>
+<ul class="skill-list">
+	<li>17673 - Software Development Studio III</li>
+	<li>(Tentative) 05631 - Software Structures for User Interfaces</li>
+	<li>(Tentative) 05618 - Human AI Interaction</li>
 </ul>
 
 <h3>Course Descriptions</h3>
@@ -72,38 +83,47 @@ TLDR; (scroll below for descriptions)
 	</ul>
 </ul>
 
+<h4>17654 - Analysis of Software Artifacts</h4>
 <ul class="skill-list">
-	<li>17654 - Analysis of Software Artifacts</li>
-	<li>17655 - Architectures for Software Systems</li>
-	<li>11663 - Applied Machine Learning</li>
-	<li>80705 - Game Theory</li>
-	<li>17671 - Software Development Studio I</li>
-	<li>17657A - Communication for Software Engineers II</li>
+	<li><strong>Overview:</strong> This was one of the best classes I took at CMU. The course content focused heavily on analysis of software systems - measures and techniques. In the first half of the class we covered what to measure, how to measure, how to interpret measures and metrics. We also covered a wide range of techniques for measuring various quality attributes of software, from correctness, reliability, robustness to performance and security. Apart from regular individual assignments, we did a group project that covered testing a Building Automation System (BAMS) written in Java, and automate the analyses through development and deployment pipelines.
+	</li>
 </ul>
 
-<h2>Skills</h2>
-
+<h4>17655 - Architectures for Software Systems</h4>
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li><strong>Overview:</strong> This was probably the apex course for my program. The course started with identification of various software quality attributes from requirements and documenting them using a 6-part quality attribute scenario format. Having identified quality attributes such as Availability, Performance, Security, Modifiability, etc., we went over various techniques and strategies to promote those qualities. Apart from individual assignments for each major quality attribute, the course included a final project which required us to analyze a set of requirements for changes to a Building Automation System (BAMS), identify relevant quality attributes, and design the software architecture for the system-to-be.
+	</li>
 </ul>
 
-<h2>Projects</h2>
+<h4>11663 - Applied Machine Learning</h4>
+<ul class="skill-list">
+	<li><strong>Overview:</strong> My first formal academic foray into machine learning apart from past MOOCs. The course ideology was to cover machine learning without going too deep into the mathematics of the algorithms. We covered various machine learning techniques - decision trees, linear algorithms, forests, ensemble methods, neural networks and others. Apart from individual assignments 50% of the course grade was based on a substantial individual project which required us to solve any machine learning problem of our choice.
+	</li>
+</ul>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<h4>80705 - Game Theory</h4>
+<ul class="skill-list">
+	<li><strong>Overview:</strong> I took Game Theory because I wanted to take some non-CS course during my time at CMU. Game Theory has applications in a lot of fields from leadership decision making, to Computer Networks. We covered simple and mixed strategy Nash Equilibrium in games such as Traffic Flow, Prisoner's Dilemma, Cournot Duopoly, as well as topics such as rationalizability, repeated games, bargaining games, and auctions.
+	</li>
+</ul>
+
+<h4>17645 - Software Engineering for AI-Enabled Systems</h4>
+<ul class="skill-list">
+	<li><a href="https://ckaestne.github.io/seai/S2020/">Course Page</a>
+	<li><strong>Overview:</strong> This was a fun course. We covered aspects for software engineering for machine learning / AI systems. Much of the learning was from the perspective of a software engineering working with machine learning engineers or data scientists. The class was very discussion focused and that was very insightful. The individual assignments were technical and challenging. The course involved a group project where we had to build and deploy a recommendation system (my team used collaborative filtering) to serve recommendations to 1 million simulated users (watching at least one movie per day). Notably, my team had the lowest service downtime and the best performing recommendation system with an average rating of 4.06 on recommended movies.
+	</li>
+</ul>
+
+<h4>Software Development Studio I/II/III</h4>
+<ul class="skill-list">
+	<li><strong>Overview:</strong> 
+	</li>
+</ul>
+
+<h2>Stuff I've worked with over the last 5 years</h2>
+
+<ul class="skill-list">
+	<li>Programming Languages: Python, Go, Java, Swift, Objective-C, Javascript</li>
+	<li>Frameworks and Libraries: iOS Native SDK, React-Native, VueJS, PostgreSQL, MongoDB, Docker, Scikit-Learn</li>
+	<li>Tools: Jenkins, XCode Server, Elasticsearch, Kibana, Logstash, Metricbeat</li>
 </ul>
